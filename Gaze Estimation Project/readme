@@ -1,0 +1,5 @@
+The word file is the project report describing the background, methodology and results.
+
+Matlab files -
+ad_adq.m and video_adq.m are for acquiring video sequences of users watching advertisements from webcams.
+ad_eval.m evaluates the captured video sequence and estimates where the viewer is looking at on the screen.
